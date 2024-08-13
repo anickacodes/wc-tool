@@ -1,0 +1,25 @@
+index.js is or entry file
+
+getting a file path 
+read a file 
+read params form terminal command
+
+#of bytes
+#of lines
+#of words 
+
+ex: 
+pass in arguments, 
+
+ccwc -l 2/text.text
+#of lines sometext 
+
+other ex: 
+ccwc somefile
+ccwc argument somefile 
+
+1. read # of arguments passed to a command 
+2. return an output 
+3. error handling for input 
+
+
