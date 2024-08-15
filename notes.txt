@@ -31,3 +31,10 @@ ccwc argument somefile
 opinionated v unopinionated file structure 
   ex: ruby(opinionated - their way) vs react (unopinionated - my way)
 
+
+
+browser exists 
+=> OS 
+node.js => a software we use to run js outside the browser 
+
+runtime environment => the environment on the cpu that helps devs run js 
