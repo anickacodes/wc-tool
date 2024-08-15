@@ -1,0 +1,26 @@
+{
+  "name": "wc-tool",
+  "version": "1.0.0",
+  "description": "## Summary",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js",
+    "index": "node index.js index",
+    "create": "node index.js create",
+    "show": "node index.js show",
+    "edit": "node index.js edit",
+    "destroy": "node index.js destroy"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anickacodes/wc-tool.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anickacodes/wc-tool/issues"
+  },
+  "homepage": "https://github.com/anickacodes/wc-tool#readme"
+}

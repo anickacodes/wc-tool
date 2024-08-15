@@ -23,3 +23,11 @@ ccwc argument somefile
 3. error handling for input 
 
 
+1. pull option from terminal command
+2. pull path 
+
+
+
+opinionated v unopinionated file structure 
+  ex: ruby(opinionated - their way) vs react (unopinionated - my way)
+
